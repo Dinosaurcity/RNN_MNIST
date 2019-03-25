@@ -1,0 +1,2 @@
+# RNN_MNIST
+RNN实现MNIST手写数字识别
